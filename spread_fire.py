@@ -1,4 +1,4 @@
-import copy
+import copy 
 
 def spread_fire(grid):
     """Update the forest grid based on fire spreading rules."""
